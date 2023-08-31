@@ -1,0 +1,100 @@
+{
+   "characters":[
+    {
+        "id":1,
+        "name":"Daenerys Targaryen",
+        "house":"Targaryen",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/4/43/House-Targaryen-Main-Shield.PNG",
+        "description":"Princess of House Targaryen, living in exile in Essos with her brother, Viserys.",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/daenarys-1920.jpg?w=1200"
+    },
+    {
+        "id":2,
+        "name":"Samwell Tarly",
+        "house":"Tarly",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/f/f7/House_Tarly.png",
+        "description":"An overweight and timid Night’s Watch recruit who is forced to join after being disinherited by his family. He falls under Jon Snow's protection and becomes his best friend.",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/samwell-1920.jpg?w=1200"
+    },
+    {
+        "id":3,
+        "name":"Oberyn Martell",
+        "house":"Martell",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/3/39/Martell_mini_shield.png",
+        "description":"A prince of Dorne, Oberyn Martell is also a fierce fighter who earned the nickname, the 'Red Viper.'",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/oberyn-1920.jpg?w=1200"
+    },
+    {
+        "id":4,
+        "name":"Arya Stark",
+        "house":"Stark",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/7/71/House-Stark-Main-Shield.png",
+        "description":"The younger of Ned and Cat's two daughters. A tomboy, she would rather fence than dance. Her direwolf is named Nymeria, after a warrior queen.",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/arya-stark-1920.jpg?w=1200"
+    },
+    {
+        "id":5,
+        "name":"Cersei Lannister",
+        "house":"Lannister",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/8/8a/House-Lannister-Main-Shield.PNG",
+        "description":"Queen of the Seven Kingdoms and wife of King Robert. Fiercely protective of her three children, she also has an unusually tight connection to her twin brother, Jaime.",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/cersei-lannister-1920.jpg?w=1200"
+    },
+    {
+        "id":6,
+        "name":"Lysa Arryn",
+        "house":"Arryn",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/3/3f/Arryn_mini_shield.png",
+        "description":"Catelyn Stark's younger sister and the wife of Jon Arryn, the Hand of the King. Both she and Catelyn were raised with Petyr Baelish.",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/lysa-arryn-1920.jpg?w=1200"
+    },
+    {
+        "id":7,
+        "name":"John Snow",
+        "house":"Targaryen",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/4/43/House-Targaryen-Main-Shield.PNG",
+        "description":"Ned's bastard son. He joins the Night’s Watch, following in the footsteps of his Uncle Benjen. His direwolf is named Ghost.",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/john-snow-1920.jpg?w=1200"
+    },
+    {
+        "id":8,
+        "name":"Olenna Tyrell",
+        "house":"Tyrell",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/5/57/Tyrell_mini_shield.png",
+        "description":"Matriarch of House Tyrell, Lady Olenna is not shy about sharing her opinions. Although fond of her granddaughter Margaery, she feels less generous toward the men in her family.",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/olenna-tyrell-1920.jpg?w=1200"
+    },
+    {
+        "id":9,
+        "name":"Brynden Tully (“The Blackfish”)",
+        "house":"Tully",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/b/bd/Tully_mini_shield.png",
+        "description":"Brynden is known as “the Blackfish,” due to the strained relationship between him and his older brother Hoster. Alongside Barristan Selmy, Brynden showed great heroism during the War of the Ninepenny Kings, a rebellion in the East that threatened the Seven Kingdoms.",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/blackfish-tully-1920.jpg?w=1200"
+    },
+    {
+        "id":10,
+        "name":"Stannis Baratheon",
+        "house":"Baratheon",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/e/e3/House-Baratheon-Old-Shield.PNG",
+        "description":"A serious man who preferred the solitude of the family seat in Dragonstone to King's Landing, Stannis is still challenging his nephew Joffrey for the Iron Throne.",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/stannis-1920.jpg?w=1200"
+    },
+    {
+        "id":11,
+        "name":"Theon Greyjoy",
+        "house":"Greyjoy",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/8/86/House-Greyjoy-Main-Shield.PNG",
+        "description":"Ned's ward, heir to House Greyjoy. He was brought to Winterfell after his father, Balon Greyjoy, tried to rise against King Robert. Although raised among the Stark children, he is keenly aware he is not one of them.",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/theon-greyjoy-1920.jpg?w=1200"
+    },
+    {
+        "id":12,
+        "name":"Jorah Mormont",
+        "house":"Mormont",
+        "houseUrl":"https://static.wikia.nocookie.net/gameofthronesfanon/images/0/02/House-Mormont-Main-Shield.png",
+        "description":"A knight now in exile in Essos who advises Viserys and Daenerys Targaryen as they make a life among the Dothraki.",
+        "url":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/jorah-mormont-1920.jpg?w=1200"
+    }
+]
+}
